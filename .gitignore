@@ -1,6 +1,6 @@
-__pycache__/
-venv/ .vscode/
+Flask_Blog_practice/__pycache__/
+venv/
 API keys
 password
 secrets
-database.db
+Flask_Blog_practice/templates/database.db
