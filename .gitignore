@@ -1,5 +1,6 @@
 __pycache__/
-.venv
+venv/ .vscode/
 API keys
 password
 secrets
+database.db
