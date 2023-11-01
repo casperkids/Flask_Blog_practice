@@ -14,7 +14,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] =\
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 bcrypt = Bcrypt(app)
-LoginManager = LoginManager(app)
+login_manager = LoginManager(app)
 
 
 from flask_blog2 import routes
